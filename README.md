@@ -1,7 +1,7 @@
-### 2nd-Year BSc. Student
-![RGU](rgu.png)
+### 3rd-Year BSc. Student
+![Robert Gordon University](rgu.png)
 
-Keen interest in web development.
+Interested in all aspects of web development.
 
 ### Topics
 - HTML Semantics
