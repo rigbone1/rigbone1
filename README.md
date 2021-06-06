@@ -1,7 +1,7 @@
-### 3rd-Year Comp. Sci. BSc. Student
 ![Robert Gordon University](rgu.png)
-
-Hugely interested in web development.
+### About Me
+- 3rd-Year Student for BSc. in Computer Science
+- Hugely interested in web development
 
 ### Topics of interest
 - Using the latest features of ECMAScript
