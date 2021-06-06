@@ -1,12 +1,17 @@
-### 3rd-Year BSc. Student
+### 3rd-Year Comp. Sci. BSc. Student
 ![Robert Gordon University](rgu.png)
 
-Interested in all aspects of web development.
+Hugely interested in web development.
 
-### Topics
-- HTML Semantics
-- Modern JavaScript
+### Topics of interest
+- Using the latest features of ECMAScript
+- Exploring the ocean of NPM packages
+- Building web app architectures
+
+### Tech I use in this pursuit
 - Node.js
+- MongoDB
+- Express.js
 
 ### Portfolio
 See a history of my work at https://rigbone1.github.io/
