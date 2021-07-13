@@ -1,17 +1,14 @@
 ![Robert Gordon University](rgu.png)
-### About Me
+### About
 - 3rd-Year Student for BSc. in Computer Science
-- Hugely interested in web development
+- Main interests lie in software development
 
-### Topics of interest
-- Using the latest features of ECMAScript
-- Exploring the ocean of NPM packages
-- Building web app architectures
-
-### Tech I use in this pursuit
-- Node.js
-- MongoDB
-- Express.js
+### Knowledge
+- Modern HTML, CSS & JavaScript
+- Node (express, ejs & pug.js)
+- MySQL, MongoDB + Mongoose
+- PHP
+- Qt, QML
 
 ### Portfolio
-See a history of my work at https://rigbone1.github.io/
+See my working history at https://rigbone1.github.io/
