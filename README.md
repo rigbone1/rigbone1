@@ -9,6 +9,7 @@
 - MySQL, MongoDB + Mongoose
 - PHP
 - Qt, QML
+- Lua
 
 ### Portfolio
 See my working history at https://rigbone1.github.io/
