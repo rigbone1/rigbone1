@@ -1,11 +1,11 @@
 ![Robert Gordon University](rgu.png)
 ### About
-- 3rd-Year Student for BSc. in Computer Science
+- 3<sup>rd</sup> Year Student for BSc. in Computer Science
 - Main interests lie in software development
 
 ### Knowledge
 - Modern HTML, CSS & JavaScript
-- Node (express, ejs & pug.js)
+- Node: Express, EJS & Pug.js (née Jade)
 - MySQL, MongoDB + Mongoose
 - PHP
 - Qt, QML
